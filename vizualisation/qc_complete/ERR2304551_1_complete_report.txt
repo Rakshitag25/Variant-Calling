@@ -1,0 +1,26 @@
+FASTQ Quality Control Report
+==================================================
+
+File: ERR2304551_1
+Analysis Date: 2025-11-27 15:31:33
+
+BASIC STATISTICS
+--------------------
+Total Sequences: 41,319,314
+Chunks Processed: 34
+Sequence Length: 150-150 bp
+Mean Length: 150.0 bp
+
+QUALITY SCORES
+---------------
+Mean Quality: Q38.8
+Quality Range: Q0-Q41
+Quality Std Dev: 5.0
+
+GC CONTENT
+------------
+Mean GC Content: 41.2%
+GC Std Deviation: 9.5%
+
+QUALITY ASSESSMENT
+--------------------
