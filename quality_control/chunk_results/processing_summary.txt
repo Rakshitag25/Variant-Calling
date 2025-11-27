@@ -1,0 +1,9 @@
+FASTQ Chunk Processing Summary
+========================================
+Total chunks processed: 101/101
+Total sequences: 124,621,776
+Mean GC content: 41.0%
+Mean quality: Q37.0
+Total processing time: 95.1 minutes
+Average time per chunk: 56.5 seconds
+Results directory: c:\Users\PAVILION\Desktop\genome\chunk_results

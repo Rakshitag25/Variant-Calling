@@ -1,0 +1,623 @@
+{
+  "processing_summary": {
+    "chunks_processed": 101,
+    "total_sequences": 124621776,
+    "processing_date": "2025-11-27 13:42:47"
+  },
+  "overall_statistics": {
+    "total_sequences": 124621776,
+    "mean_gc_content": 40.95678128597246,
+    "std_gc_content": 9.746723060624666,
+    "mean_quality": 37.047342900864024,
+    "min_quality": 0.0,
+    "max_quality": 41.0
+  },
+  "chunk_summaries": [
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_001.fastq",
+      "sequences": 1249999,
+      "gc_content": 50.49235132721308,
+      "quality": 38.28018218681242
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_002.fastq",
+      "sequences": 1249999,
+      "gc_content": 47.840099605411694,
+      "quality": 38.569452167561735
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_003.fastq",
+      "sequences": 1249999,
+      "gc_content": 46.98838639070728,
+      "quality": 38.50750541400433
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_004.fastq",
+      "sequences": 1249999,
+      "gc_content": 46.16438519817323,
+      "quality": 38.62679995210663
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_005.fastq",
+      "sequences": 1249999,
+      "gc_content": 44.62614450091515,
+      "quality": 38.68323056791779
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_006.fastq",
+      "sequences": 1249999,
+      "gc_content": 41.78431129411295,
+      "quality": 38.851058771513685
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_007.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.68203547896195,
+      "quality": 38.94461803036109
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_008.fastq",
+      "sequences": 1249999,
+      "gc_content": 36.718012307741276,
+      "quality": 39.07773735285655
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_009.fastq",
+      "sequences": 1249999,
+      "gc_content": 37.021430150477926,
+      "quality": 39.05801456374498
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_010.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.239407391526555,
+      "quality": 38.9548621665564
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_011.fastq",
+      "sequences": 1249999,
+      "gc_content": 35.902403655255895,
+      "quality": 39.088765804345975
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_012.fastq",
+      "sequences": 1249999,
+      "gc_content": 40.621574897258704,
+      "quality": 38.895535868428695
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_013.fastq",
+      "sequences": 1249999,
+      "gc_content": 40.27801408907849,
+      "quality": 38.940944896755916
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_014.fastq",
+      "sequences": 1249999,
+      "gc_content": 40.972720244839316,
+      "quality": 38.83923455405431
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_015.fastq",
+      "sequences": 1249999,
+      "gc_content": 44.62764370211654,
+      "quality": 38.634271286083695
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_016.fastq",
+      "sequences": 1249999,
+      "gc_content": 41.32255039137455,
+      "quality": 38.8806156591592
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_017.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.03353736016483,
+      "quality": 38.98024928019942
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_018.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.976588781271396,
+      "quality": 38.913863045757104
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_019.fastq",
+      "sequences": 1249999,
+      "gc_content": 34.52832468932581,
+      "quality": 39.12209353767483
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_020.fastq",
+      "sequences": 1249999,
+      "gc_content": 42.16823106791905,
+      "quality": 38.79554055109911
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_021.fastq",
+      "sequences": 1249999,
+      "gc_content": 41.2888724977644,
+      "quality": 38.880136229442314
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_022.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.2298351172006,
+      "quality": 38.96104178750009
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_023.fastq",
+      "sequences": 1249999,
+      "gc_content": 43.657198125757304,
+      "quality": 38.7560264234878
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_024.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.92446660623699,
+      "quality": 38.88388694710956
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_025.fastq",
+      "sequences": 1249999,
+      "gc_content": 42.289685031749435,
+      "quality": 38.767299493839595
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_026.fastq",
+      "sequences": 1249999,
+      "gc_content": 41.555684977881825,
+      "quality": 38.87269053815243
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_027.fastq",
+      "sequences": 1249999,
+      "gc_content": 40.70915203398607,
+      "quality": 38.93413422997405
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_028.fastq",
+      "sequences": 1249999,
+      "gc_content": 45.08609953554662,
+      "quality": 38.27940784485961
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_029.fastq",
+      "sequences": 1249999,
+      "gc_content": 38.977874382300776,
+      "quality": 38.93100793413968
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_030.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.89459138233922,
+      "quality": 38.91182146545717
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_031.fastq",
+      "sequences": 1249999,
+      "gc_content": 38.54337270136555,
+      "quality": 38.962448785959026
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_032.fastq",
+      "sequences": 1249999,
+      "gc_content": 40.68150667853731,
+      "quality": 38.87227195115089
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_033.fastq",
+      "sequences": 1249999,
+      "gc_content": 39.36455842497987,
+      "quality": 38.94760161141462
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_1.fastq\\chunks\\ERR2304551_1_chunk_034.fastq",
+      "sequences": 69347,
+      "gc_content": 35.252685768670524,
+      "quality": 39.111632899284274
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_001.fastq",
+      "sequences": 1250000,
+      "gc_content": 51.16756480000032,
+      "quality": 34.979710592
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_002.fastq",
+      "sequences": 1250000,
+      "gc_content": 48.33714879999938,
+      "quality": 35.449856405333335
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_003.fastq",
+      "sequences": 1250000,
+      "gc_content": 47.49920159999898,
+      "quality": 35.422427381333335
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_004.fastq",
+      "sequences": 1250000,
+      "gc_content": 46.62264746666701,
+      "quality": 35.607767504
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_005.fastq",
+      "sequences": 1250000,
+      "gc_content": 45.079216000002354,
+      "quality": 35.743907338666666
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_006.fastq",
+      "sequences": 1250000,
+      "gc_content": 42.15921013333482,
+      "quality": 36.080329184
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_007.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.032217599999875,
+      "quality": 36.27867378133333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_008.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.029257600000605,
+      "quality": 36.57650054933333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_009.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.34133920000042,
+      "quality": 36.53228891733333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_010.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.60426560000058,
+      "quality": 36.307766165333334
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_011.fastq",
+      "sequences": 1250000,
+      "gc_content": 36.20458826666459,
+      "quality": 36.62033568
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_012.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.99756159999916,
+      "quality": 36.175090688
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_013.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.78499039999679,
+      "quality": 36.28824826666666
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_014.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.36798879999892,
+      "quality": 36.07096018666667
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_015.fastq",
+      "sequences": 1250000,
+      "gc_content": 45.0905045333327,
+      "quality": 35.69206274133333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_016.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.72032053333284,
+      "quality": 36.123272432
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_017.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.37105173333397,
+      "quality": 36.34508517333333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_018.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.33543039999975,
+      "quality": 36.227863328
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_019.fastq",
+      "sequences": 1250000,
+      "gc_content": 34.84389333333318,
+      "quality": 36.72725637866667
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_020.fastq",
+      "sequences": 1250000,
+      "gc_content": 42.56046186666631,
+      "quality": 35.987670688
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_021.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.652876266668365,
+      "quality": 36.12661344
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_022.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.56402080000058,
+      "quality": 36.31302762133333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_023.fastq",
+      "sequences": 1250000,
+      "gc_content": 44.07692053333641,
+      "quality": 35.86487781866666
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_024.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.28870986666934,
+      "quality": 36.18323219733333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_025.fastq",
+      "sequences": 1250000,
+      "gc_content": 42.70658293333364,
+      "quality": 35.94764336
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_026.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.93849279999911,
+      "quality": 36.10523142933334
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_027.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.07497760000018,
+      "quality": 36.216428864
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_028.fastq",
+      "sequences": 1250000,
+      "gc_content": 45.119615466668826,
+      "quality": 35.15319040533333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_029.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.347581866667895,
+      "quality": 36.29424990933333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_030.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.25462186666636,
+      "quality": 36.22679235733333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_031.fastq",
+      "sequences": 1250000,
+      "gc_content": 38.89744746666571,
+      "quality": 36.338161856
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_032.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.05639573333159,
+      "quality": 36.134413248
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_033.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.74354293333269,
+      "quality": 36.28904309333333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_034.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.84129813333209,
+      "quality": 35.85876392
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_035.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.54444213332947,
+      "quality": 35.92635124266667
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_036.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.73818933333222,
+      "quality": 36.10519144533333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_037.fastq",
+      "sequences": 1250000,
+      "gc_content": 42.412210133332316,
+      "quality": 36.00332900266667
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_038.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.45412053333376,
+      "quality": 36.245887909333334
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_039.fastq",
+      "sequences": 1250000,
+      "gc_content": 43.27266400000209,
+      "quality": 35.909716661333334
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_040.fastq",
+      "sequences": 1250000,
+      "gc_content": 38.20966453333519,
+      "quality": 36.443872944
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_041.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.5967066666681,
+      "quality": 36.493514821333335
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_042.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.9428373333327,
+      "quality": 36.45997216533333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_043.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.33489546666705,
+      "quality": 36.517449877333334
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_044.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.875900266667415,
+      "quality": 36.268482624
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_045.fastq",
+      "sequences": 1250000,
+      "gc_content": 35.98706773333432,
+      "quality": 36.652030512
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_046.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.2671392000008,
+      "quality": 36.51282416
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_047.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.06443253333593,
+      "quality": 36.207743696
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_048.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.94951253333516,
+      "quality": 36.45689032533333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_049.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.473222400002584,
+      "quality": 36.132812304
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_050.fastq",
+      "sequences": 1250000,
+      "gc_content": 43.45442453333405,
+      "quality": 35.894156378666665
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_051.fastq",
+      "sequences": 1250000,
+      "gc_content": 44.28371786666832,
+      "quality": 35.862934106666664
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_052.fastq",
+      "sequences": 1250000,
+      "gc_content": 43.333098666669045,
+      "quality": 35.967432608
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_053.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.6290821333334,
+      "quality": 36.336382234666665
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_054.fastq",
+      "sequences": 1250000,
+      "gc_content": 38.95415999999865,
+      "quality": 36.38341586666667
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_055.fastq",
+      "sequences": 1250000,
+      "gc_content": 40.776080533331985,
+      "quality": 36.206872112
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_056.fastq",
+      "sequences": 1250000,
+      "gc_content": 45.60478880000248,
+      "quality": 35.66856771733333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_057.fastq",
+      "sequences": 1250000,
+      "gc_content": 42.61463893333568,
+      "quality": 36.029177626666666
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_058.fastq",
+      "sequences": 1250000,
+      "gc_content": 39.88869653333408,
+      "quality": 36.296281445333335
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_059.fastq",
+      "sequences": 1250000,
+      "gc_content": 38.56319146666639,
+      "quality": 36.40975188266667
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_060.fastq",
+      "sequences": 1250000,
+      "gc_content": 35.32321653333301,
+      "quality": 36.69102170666667
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_061.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.08914133333386,
+      "quality": 36.542371424
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_062.fastq",
+      "sequences": 1250000,
+      "gc_content": 36.96795040000091,
+      "quality": 36.560525594666665
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_063.fastq",
+      "sequences": 1250000,
+      "gc_content": 38.569093866668304,
+      "quality": 36.41511000533333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_064.fastq",
+      "sequences": 1250000,
+      "gc_content": 44.34514399999853,
+      "quality": 35.86865296533333
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_065.fastq",
+      "sequences": 1250000,
+      "gc_content": 41.41343359999851,
+      "quality": 36.160290896
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_066.fastq",
+      "sequences": 1250000,
+      "gc_content": 37.930650133331596,
+      "quality": 36.456343610666664
+    },
+    {
+      "chunk_file": "c:\\Users\\PAVILION\\Desktop\\genome\\ERR2304551_2.fastq\\chunks\\ERR2304551_2_chunk_067.fastq",
+      "sequences": 802462,
+      "gc_content": 38.263968181400855,
+      "quality": 36.41494674306488
+    }
+  ]
+}
